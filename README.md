@@ -16,9 +16,6 @@ GFS has released all its digital fonts free for every application
 and supports each one with polytonic typesetting capability for
 use by the various Centres of Hellenic Studies worldwide.
 
-The digital redesigns of several historic fonts offered here chart 
-this historic evolution of Greek type design. 
-
 All the majuscule fonts available here were designed by
 George D. Matthiopoulos and are samples of the various trends 
 used in Greek typography: GFS Ambrosia has the main characteristics 
@@ -46,3 +43,5 @@ The following fonts areavailable:
 5. GFS Ignacio
 6. GFS Garaldus
 7. GFS Jackson
+
+This is a repackage of Greek fonts for Slackware Linux.
